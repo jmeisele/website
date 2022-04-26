@@ -7,6 +7,6 @@ range: 'June 2020 - Present'
 url: 'https://www.shipt.com/'
 ---
 
-- Write modern, performant, maintainable code for a diverse array of client and internal projects.
-- Work with a variety of different languages, platforms, frameworks, and content management systems such as JavaScript, TypeScript, Gatsby, React, Craft, WordPress, Prismic, and Netlify
-- Communicate with multi-disciplinary teams of engineers, designers, producers, and clients on a daily basis
+- Write modern, performant, maintainable code for a diverse array of Data Science clients and internal projects.
+- Individual contributor to the development of Shipt's internal ML Platform
+- Tech lead for ML Monitoring component on ML Platform

@@ -129,6 +129,7 @@ const About = () => {
   const skills = [
     'Python',
     'GoLang',
+    'SQL',
     'JavaScript (ES6+)',
     'React',
     'FastAPI',
@@ -156,7 +157,7 @@ const About = () => {
               open course CS50 — turns out I found my calling and have never looked back since. I
               live in Birmingham, Alabama with my wife, two kids, and two dogs.
             </p>
-            <p>Here are some technologies I currently work with:</p>
+            <p>Here are some technologies I enjoy working with:</p>
           </div>
 
           <ul className="skills-list">
