@@ -16,8 +16,11 @@
 <p align="center">
   <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
     <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
+    
   </a>
 </p>
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/876da4dd-78ab-41af-8266-05c71f6aa2ff/deploy-status)](https://app.netlify.com/sites/funny-trifle-6dd7af/deploys)
 
 ![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
 
