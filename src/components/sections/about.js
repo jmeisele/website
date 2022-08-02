@@ -153,7 +153,7 @@ const About = () => {
             <p>
               Hello! My name is Jason and I enjoy creating things that make Data Scientists and
               Engineers jobs easier. My interests are building software and MLOps platforms. My
-              interest in software development started back in 2015, when I decided to try Harvard's
+              interest in software development started back in 2013, when I decided to try Harvard's
               open course CS50 — turns out I found my calling and have never looked back since. I
               live in Birmingham, Alabama with my wife, two kids, and two dogs.
             </p>
